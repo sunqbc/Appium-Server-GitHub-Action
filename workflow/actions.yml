@@ -1,8 +1,0 @@
-name: 'Appium Server Action'
-description: 'Install and Run Appium Server for your Android and iOS mobile testing'
-runs:
-  using: 'docker'
-  image: 'Dockerfile'
-branding:
-  icon: check-square
-  color: purple
